@@ -1,0 +1,21 @@
+# Statement: Expense Tracker
+
+## Project Title
+Expense Tracker (Console-based, OOP)
+
+## Problem Statement
+Users often lose track of daily spending. This local, offline expense tracker helps users record and analyze expenses.
+
+## Scope
+- Add and view expenses with dates and notes.
+- Sorting and grouping.
+- JSON-based persistence.
+
+## Target Users
+Students and individuals wanting a simple expense recorder.
+
+## High-level Features
+- Add expense (today's date)
+- View all expenses
+- Sort by amount
+- Group by date
