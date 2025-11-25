@@ -2,7 +2,6 @@ from datetime import datetime
 import json
 import os
 
-# List to store all expenses
 expenses = []
 
 # Load expenses from file if it exists
@@ -83,4 +82,5 @@ while True:
         print("Goodbye!")
         break
     else:
+
         print("Invalid choice!")
