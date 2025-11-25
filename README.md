@@ -161,70 +161,78 @@ Grouped Output Example
 
 🧪 Testing
 
-You can test using:
+      You can test using:
+      
+      Test Case 1: Add Expense
+      
+      Input:
+      
+      Amount = 100
+      Note = Lunch
 
-Test Case 1: Add Expense
-
-Input:
-
-Amount = 100
-Note = Lunch
-
-
-Expected:
-
-Expense appears under today’s date
-
-Test Case 2: Sort by Amount
 
 Expected:
 
-List displayed in order (ascending / descending)
+      Expense appears under today’s date
+      
+      Test Case 2: Sort by Amount
+      
+      Expected:
+      
+      List displayed in order (ascending / descending)
+      
+      Test Case 3: Group by Date
+      
+      Expected:
+      
+      Date printed once
+      
+      Related expenses underneath
 
-Test Case 3: Group by Date
 
-Expected:
-
-Date printed once
-
-Related expenses underneath
 
 🔧 Future Enhancements (Optional Ideas)
 
-You may include these in your report:
+      You may include these in your report:
+      
+      Monthly or weekly summary tables
+      
+      Category tags (Food, Transport, Shopping...)
+      
+      Export to CSV
+      
+      Password/PIN lock
+      
+      Tkinter GUI interface
+      
+        Charts using matplotlib
 
-Monthly or weekly summary tables
 
-Category tags (Food, Transport, Shopping...)
-
-Export to CSV
-
-Password/PIN lock
-
-Tkinter GUI interface
-
-Charts using matplotlib
 
 📘 Learning Outcomes
 
-Through this project, you will learn:
+      Through this project, you will learn:
 
-OOP in Python
+      OOP in Python
 
-JSON file handling
+      JSON file handling
+      
+     Basic validation and error handling
 
-Basic validation and error handling
+      CLI application development
 
-CLI application development
+      Clean code and modular design
 
-Clean code and modular design
+      How to structure a GitHub project
 
-How to structure a GitHub project
+
 
 📝 License
 
-This project is open-source under the MIT License.
+      This project is open-source under the MIT License.
 
 🙌 Acknowledgements
 
-This project was developed as part of academic coursework to demonstrate Python programming, OOP concepts, and simple data persistence techniques.
+
+
+      This project was developed as part of academic coursework to demonstrate Python programming, OOP concepts, and simple data persistence techniques.
