@@ -114,8 +114,6 @@ Two main classes:
 
 ## 2️⃣ Installation & Setup
 Clone the repository:
-
-```bash
 git clone https://github.com/<your-username>/python-expense-tracker.git
 cd python-expense-tracker
 
